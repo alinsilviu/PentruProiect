@@ -1,0 +1,16 @@
+#middle {
+	box-shadow: 0px 10px 20px #D1D0CE;
+	background: #337ab7;
+}
+.container-fluid {
+	box-shadow: 0px 5px 5px #D1D0CE;
+	background: #fff;
+}
+body {
+	background: #e4e7ec;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.panel-heading {
+	border-radius: 0;
+}
